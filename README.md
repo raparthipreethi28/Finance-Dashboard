@@ -285,5 +285,3 @@ Possible enhancements:
 Consider giving the repository a **star ⭐**
 
 ---
-
-If you want, I can also show you **3 small README additions that make your project look like a senior developer project (very impressive for internships).** 🚀
